@@ -24,5 +24,5 @@ while active:
 
     else: 
      print("----------------------")
-     print("撒比吧！让你输入(on/off)")
+     print("让你输入(on/off)")
      print("----------------------")
